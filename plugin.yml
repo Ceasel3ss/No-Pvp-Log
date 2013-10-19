@@ -1,0 +1,8 @@
+main: me.nextinline.AntiLogger.Core
+name: No PvP Log
+version: 1.3
+commands:
+   combat:
+     description: Set yourself on fire.
+     aliases: [ct]
+     usage: Error! Use /combat 
